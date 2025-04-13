@@ -17,7 +17,6 @@ Install in package.json:
 or install in terminal:
 ```
 npm install baileys@github:juanlopses/bailgays-mod
-
 ```
 
 Then import the default function in your code:
